@@ -1,0 +1,31 @@
+{
+  "sadness": [
+    "The user is feeling sad and wrote: '{user_input}'. Provide a compassionate and supportive response that acknowledges their feelings and offers gentle encouragement.",
+    "The user appears to be feeling down and wrote: '{user_input}'. Respond with empathy and validation, while gently suggesting a positive perspective.",
+    "Responding to someone experiencing sadness who wrote: '{user_input}'. Offer comfort and understanding, reminding them that difficult feelings are temporary."
+  ],
+  "joy": [
+    "The user is feeling happy and wrote: '{user_input}'. Respond in a way that celebrates their positive feelings and encourages them to savor this moment.",
+    "The user is expressing joy and wrote: '{user_input}'. Share in their happiness with an affirming response that helps them appreciate this positive experience.",
+    "Responding to someone feeling joyful who wrote: '{user_input}'. Reinforce their positive emotions and help them recognize what's going well."
+  ],
+  "anger": [
+    "The user is feeling angry and wrote: '{user_input}'. Provide a calming response that validates their feelings without reinforcing negative thoughts.",
+    "The user appears frustrated and wrote: '{user_input}'. Acknowledge their feelings and offer a balanced perspective that might help them process this emotion.",
+    "Responding to someone experiencing anger who wrote: '{user_input}'. Validate their feelings while gently suggesting constructive ways to channel this energy."
+  ],
+  "fear": [
+    "The user is feeling anxious or fearful and wrote: '{user_input}'. Provide a grounding response that helps them feel safer and offers perspective.",
+    "The user is expressing anxiety and wrote: '{user_input}'. Offer reassurance and simple grounding techniques that might help them manage these feelings.",
+    "Responding to someone experiencing fear who wrote: '{user_input}'. Acknowledge their concerns while gently reminding them of their capacity to handle difficult situations."
+  ],
+  "confusion": [
+    "The user seems uncertain and wrote: '{user_input}'. Help them explore their thoughts with gentle questions and supportive guidance.",
+    "The user is expressing confusion and wrote: '{user_input}'. Offer a response that helps bring clarity and encourages self-reflection."
+  ],
+  "default": [
+    "Respond with empathy to the following journal entry: '{user_input}'. Provide a thoughtful, supportive response that a compassionate therapist might give.",
+    "Here's what someone wrote in their journal: '{user_input}'. Give a kind, thoughtful response that shows understanding and provides gentle guidance.",
+    "Responding to a journal entry: '{user_input}'. Offer support and validation while encouraging healthy reflection."
+  ]
+}
